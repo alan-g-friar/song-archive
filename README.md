@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1199972922.svg)](https://doi.org/10.5281/zenodo.19393297)
+
 # Song Archive
 
 Author: Alan G. Friar  
