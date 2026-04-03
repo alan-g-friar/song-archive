@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1199972922.svg)](https://doi.org/10.5281/zenodo.19393297)
+
 This work is an original song composed of lyrics and AI-assisted music.
 
 The song reflects a personal realization of faith and recognition of God’s presence during periods of hardship, even when it was not understood at the time. It is intended as a reflective and spiritual piece centered on gratitude, perspective, and belief.
